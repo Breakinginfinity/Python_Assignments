@@ -18,7 +18,7 @@ Using linear regression to predict who will win the game?
 • import statsmodels.api as sm
 
 • import matplotlib.pyplot as plt
-%matplotlib inline
+
 
 
 ### In this file
