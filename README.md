@@ -8,7 +8,7 @@ Linear regression analysis is used to predict the value of a variable based on t
 Using linear regression to predict who will win the game?
 
 ## Imports
-# Import pandas
+Import pandas
 import numpy as np 
 import pandas as pd 
 
