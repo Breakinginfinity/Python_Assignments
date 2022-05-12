@@ -8,16 +8,16 @@ Linear regression analysis is used to predict the value of a variable based on t
 Using linear regression to predict who will win the game?
 
 ## Imports
-import numpy as np ,
-import pandas as pd ,
+• import numpy as np 
+• import pandas as pd 
 
-import os # Setting the Working Directory,
-from sklearn.preprocessing import LabelEncoder, OneHotEncoder 
-from sklearn.linear_model import LinearRegression ,
+• import os # Setting the Working Directory
+• from sklearn.preprocessing import LabelEncoder, OneHotEncoder 
+• from sklearn.linear_model import LinearRegression ,
 
-import statsmodels.api as sm
+• import statsmodels.api as sm
 
-import matplotlib.pyplot as plt
+• import matplotlib.pyplot as plt
 %matplotlib inline
 
 
