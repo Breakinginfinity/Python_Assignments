@@ -12,9 +12,13 @@ Using linear regression to predict who will win the game?
 • import pandas as pd 
 
 • import os # Setting the Working Directory
+
 • from sklearn.preprocessing 
-• import LabelEncoder, OneHotEncoder 
+
+• import LabelEncoder, OneHotEncoder
+
 • from sklearn.linear_model 
+
 • import LinearRegression 
 
 • import statsmodels.api as sm
