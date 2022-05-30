@@ -37,7 +37,7 @@ For the Super Bowl game data, we can see the dataset appears whole except for mi
 For the TV data, the following columns have missing values and a lot of them:
 
 • **total_us_viewers** (amount of U.S. viewers who watched at least some part of the broadcast)
-•** rating_18_49** (average % of U.S. adults 18-49 who live in a household with a TV that were watching for the entire broadcast)
+• ** rating_18_49** (average % of U.S. adults 18-49 who live in a household with a TV that were watching for the entire broadcast)
 • **share_18_49** (average % of U.S. adults 18-49 who live in a household with a TV in use that were watching for the entire broadcast)
 
 For the halftime musician data, there are missing numbers of songs performed (num_songs) for about a third of the performances.
